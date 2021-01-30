@@ -1,6 +1,8 @@
 ---
-layout: post
 title:  "Stuff that I like..."
+date: 2021-01-30 21:15:00
+categories: [HOBBIES]
+tags: [writting]
 ---
 
 # Welcome
