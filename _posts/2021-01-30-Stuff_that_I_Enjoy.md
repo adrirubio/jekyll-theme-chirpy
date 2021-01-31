@@ -5,8 +5,19 @@ categories: [HOBBIES]
 tags: [writting]
 ---
 
-# Welcome
+## Welcome
 
 This is my first blog post.
-
 I hope you like it!
+
+These are some things that I like!!!
+
+1. computers
+2. video games
+3. Football
+4. Reading
+5. school work
+6. Space rockets
+7. Everything to be neat.
+
+These are only a few of the things that I enjoy.
