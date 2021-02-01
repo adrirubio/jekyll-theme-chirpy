@@ -24,7 +24,7 @@ Because in higher ranks players are going to aerial up to the ball from a backbo
 ### Camara Settings
 I can't tell you much about camara settings because they are entirely up to you, but I can show you what camara settings I play better with.
 
-![My camera settings](/assets/img/camera-settings.jpg)
+![My camera settings](/assets/img/adrian-camera-settings.png)
 
 Oh and turn camara shake of!!!!!!
 
