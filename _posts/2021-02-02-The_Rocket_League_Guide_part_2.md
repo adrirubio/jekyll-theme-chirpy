@@ -7,19 +7,20 @@ tags: [Rocket League]
 
 ## Best 5 Rocket League Tips For Bronze Or Silver players.
 Hello today I am going to be talking about some of the best 2020 Rocket League tips!!!!
+ 
+### Save Boost
+Ok so boost is a precious thing instead of using all your boost in one go save it it will come in handy.
+(I use to do that shhhhhhhhhh.)
+##### Will This Be A Helpful Thing To Do???
+YESSSS very helpful and easy.
 
-### Back Post Defence
-##### What is Back Post Defence????
-Well back post defence is if you split the pitch in half vertically, the side that does not have the ball is the one you are ment to rotate down in too.
-That means you can save any shot.
-But when you rotate down don't go in front of the goal post but slightly behind the goal.
-
-### Backbord Defence
-The backbord is the big chunk of space on top of the goal.
-To get to the backbord go up the wall next to the goal if you see the ball is going to hit the backbord, if needed jump of the backbord to save the ball.
-##### Why Do You Need To Do This?????
-Because in higher ranks players are going to aerial up to the ball from a backbord hit and it will most likely go in.
-(If this is to difficult try it when you are a better player but make sure you do do it because you will see a change in your game play!!)
+### Stop Ball Chasing
+##### why Do This????
+Because if you and your team mates ball chase you are going to triple comit and every thing is going to be a mess.
+But on the other hand you in defence and your team mates double commiting you will have an advantage over the other team.
+At one point the other team will get the ball pass your team mates and it will be up to you.
+But it will take practice not only in game but also in training packs.
+But it will help.
 
 ### Camara Settings
 I can't tell you much about camara settings because they are entirely up to you, but I can show you what camara settings I play better with.
