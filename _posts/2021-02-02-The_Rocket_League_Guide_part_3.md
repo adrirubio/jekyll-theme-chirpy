@@ -7,7 +7,7 @@ tags: [Rocket League]
 
 ## 5 Rocket league Tips For Silver Or Golds
 
-Welcome back to the rocket league guide (part 3) to start of I will show you the latests guide!!
+Welcome back to the rocket league guide (part 3) to start of I will show you the latest guide!!
 [The Rocket League Guide(Part #2)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_2/) 
 Well shall we get straight into it.
 

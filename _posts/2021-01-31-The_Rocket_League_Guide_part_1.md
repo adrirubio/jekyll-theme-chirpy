@@ -9,7 +9,7 @@ tags: [Rocket League]
 ## 3 Rocket League Tips For Total Beginners
 
 Hi and today I will be talking about tips for people who installed rocket league and only touched the controler once.
-If thats you you came to the right place if not click on this [The Rocket League Guide(Part #2)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_2/)!!!
+And like always the latest guide [The Rocket League Guide(Part #2)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_2/)!!!
 Fine lets just get right into it!!!!
 
 ### Freeplay Is Your Best Friend
