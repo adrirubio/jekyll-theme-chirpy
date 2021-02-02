@@ -1,11 +1,11 @@
 ---
-title:  "The Rocket League Guide (Part #1)"
-date: 2020-01-31 15:30:00
+title:  "The Rocket League Guide (Part #2)"
+date: 2020-02-02 15:30:00
 categories: [HOBBIES]
 tags: [Rocket League]
 ---
 
-## Best 5 Rocket League Tips For Beginners
+## Best 5 Rocket League Tips For Bronze Or Silver players.
 Hello today I am going to be talking about some of the best 2020 Rocket League tips!!!!
 
 ### Back Post Defence
@@ -19,6 +19,7 @@ The backbord is the big chunk of space on top of the goal.
 To get to the backbord go up the wall next to the goal if you see the ball is going to hit the backbord, if needed jump of the backbord to save the ball.
 ##### Why Do You Need To Do This?????
 Because in higher ranks players are going to aerial up to the ball from a backbord hit and it will most likely go in.
+(If this is to difficult try it when you are a better player but make sure you do do it because you will see a change in your game play!!)
 
 ### Camara Settings
 I can't tell you much about camara settings because they are entirely up to you, but I can show you what camara settings I play better with.
@@ -44,4 +45,6 @@ The right awnser is B=try to cut the player.
 Because if you tried to get boost and cut the other player you probably don't have the time but if you cut the player with some small boost pads and flips you could most likely make it. 
 You have about 10% out of 100% to make it getting the big boost pad, but on the other hand you have about 90% out of 100% with no big boost pad so ball is better.
 
-And don't miss [Rocket League Guide (part #2)](https://adrianrubio.org/posts/The_Rocket_League_part_2/)!!!!
+### This Is Not Technically Not A Tip But Just a traning pack
+
+The only tip that has a few traning packs is backbord defence!!
