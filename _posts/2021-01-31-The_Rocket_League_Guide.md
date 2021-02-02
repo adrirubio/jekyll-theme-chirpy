@@ -10,14 +10,13 @@ Hello today I am going to be talking about some of the best 2020 Rocket League t
 
 ### Back Post Defence
 You may be thinking what on earth is back post defence????
-Well back post defence is if you split the pitch in half the side that does not have the ball is the one you are ment to rotate down in too
+Well back post defence is if you split the pitch in half cutting the goal in half, the side that does not have the ball is the one you are ment to rotate down in too
 That means you can save any shot.
-But when you rotate down don't go in front of the goal but behind the post.
+But when you rotate down don't go in front of the goal post but slightly behind the goal.
 
 ### Backbord Defence
 The backbord is the big chunk of space on top of the goal.
 To get to the backbord go up the wall next to the goal if you see the ball is going to hit the backbord if needed jump of the backbord to save the ball.
-
 Why do you need to do this?????
 Because in higher ranks players are going to aerial up to the ball from a backbord hit and it will most likely go in.
 
