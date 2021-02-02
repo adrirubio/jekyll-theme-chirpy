@@ -22,6 +22,7 @@ And in a few days you will see a huge diffrence in your game play!!
 For some reason higher ranked players use freeplay ALOT, I am not saying it is a bad thing just in my opinion I think new players should use freeplay as much as higher ranked players or more!!!!!!!
  
 ### Play More Matches
+![My camera settings](/assets/img/rocket-league-play.png)
 Not much comes in to this one just play more matches you are going to lose and win !!
 If you want try to think about one aspect of your game play!!
 Like:Hitting the ball or demoing a player, you get what I mean don't you!!!
