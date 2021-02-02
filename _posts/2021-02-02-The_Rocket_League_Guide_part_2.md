@@ -7,7 +7,7 @@ tags: [Rocket League]
 
 ## Best 5 Rocket League Tips For Bronze Or Silver players.
 Hello today I am going to be talking about some of the best 2020 Rocket League tips!!!!
- Like always I will show you the latest guide [Rocket League Guide (part #1)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_1/)
+ Like always I will show you the latest guide [Rocket League Guide (part #3)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_3/)
 ### Save Boost
 Ok so boost is a precious thing instead of using all your boost in one go save it it will come in handy.
 (I use to do that shhhhhhhhhh.)
@@ -52,4 +52,4 @@ Just change them.
 Match practice.
 
 I hope you enjoyed and I hope to see you on The Rocket League Guide (part #3) !!!!!!!
-Once again I will show you the one before  [Rocket League Guide (part #3)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_3/)
+Once again I will show you the one before  [Rocket League Guide (part #1)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_1/)
