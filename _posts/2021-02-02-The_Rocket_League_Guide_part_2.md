@@ -15,8 +15,8 @@ Ok so boost is a precious thing instead of using all your boost in one go save i
 YESSSS very helpful and easy.
 
 ### Stop Ball Chasing
-##### why Do This????
-Because if you and your team mates ball chase you are going to triple comit and every thing is going to be a mess.
+##### Why Do This????
+Because if you and your team mates ball chase you are going to triple comit and everything is going to be a mess.
 But on the other hand you in defence and your team mates double commiting you will have an advantage over the other team.
 At one point the other team will get the ball pass your team mates and it will be up to you.
 But it will take practice not only in game but also in training packs.
