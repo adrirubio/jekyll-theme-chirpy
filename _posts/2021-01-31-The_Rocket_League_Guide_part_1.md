@@ -13,3 +13,5 @@ If thats you you came to the right place if not click on this [The_Rocket_League
 Fine lets just get right into it!!!!
 
 ### Freeplay Is Your Best Friend
+
+![My camera settings](/assets/img/adrian-free-play.png)
