@@ -43,7 +43,7 @@ You have about 10% out of 100% to make it getting the big boost pad, but on the 
 ### Recommended traning pack
 well I am sorry but there is NO packs for this one but I can tell you stuff you can do for all the tips.
 #### Save Boost
-Turn unimited boost in freeplay and get the small boost pads.
+Turn unimited boost of in freeplay and get the small boost pads.
 #### Stop Ball Chasing
 Practice in match.
 #### Camara Settings
