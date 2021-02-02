@@ -15,3 +15,7 @@ Fine lets just get right into it!!!!
 ### Freeplay Is Your Best Friend
 
 ![My camera settings](/assets/img/adrian-free-play.png)
+Ok so what I mean by this is, if you are an total beginer witch you probably are I recommend you freeplay!!! 
+##### Why Do This
+Because most lower ranked players don't use freeplay as much as I recommend you, just 10 minits a day.
+And in a few days you will see a huge diffrence in your game play!!
