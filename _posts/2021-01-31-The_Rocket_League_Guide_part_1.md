@@ -34,5 +34,4 @@ Okay so I know it has been a pretty short number one guide I am sorry :(
 Just the lower ranked players don't have much to do just freeplay more freeplay and more freeplay.
 But that dose not mean that the other things I recommended you dont have use they will still help.
 
-And  once again I will put the next rocket league guide [Rocket League Guide (part #2)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_2/)
 Well any way I hope you enjoyed and I will see you in the next one!!
