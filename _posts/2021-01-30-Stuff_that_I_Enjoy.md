@@ -7,9 +7,6 @@ tags: [writting]
 
 ## Welcome
 
-This is my first blog post.
-I hope you like it!
-
 These are some things that I like!!!
 
 1. computers

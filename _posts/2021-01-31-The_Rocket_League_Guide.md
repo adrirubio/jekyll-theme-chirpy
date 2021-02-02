@@ -9,15 +9,15 @@ tags: [writting]
 Hello today I am going to be talking about some of the best 2020 Rocket League tips!!!!
 
 ### Back Post Defence
-You may be thinking what on earth is back post defence????
+####What is Back Post Defence????
 Well back post defence is if you split the pitch in half cutting the goal in half, the side that does not have the ball is the one you are ment to rotate down in too
 That means you can save any shot.
 But when you rotate down don't go in front of the goal post but slightly behind the goal.
 
 ### Backbord Defence
 The backbord is the big chunk of space on top of the goal.
-To get to the backbord go up the wall next to the goal if you see the ball is going to hit the backbord if needed jump of the backbord to save the ball.
-Why do you need to do this?????
+To get to the backbord go up the wall next to the goal if you see the ball is going to hit the backbord, if needed jump of the backbord to save the ball.
+####Why Do You Need To Do This?????
 Because in higher ranks players are going to aerial up to the ball from a backbord hit and it will most likely go in.
 
 ### Camara Settings
@@ -29,7 +29,7 @@ Oh and turn camara shake of!!!!!!
 
 ### Don't Get Ahead Of Your Self
 By this I mean don't learn to aerial if you are in silver learn to power shot its like learning to run before you can walk.
-Why do this??????
+####Why Do This??????
 Because power shots are more common than aerials so learn from easiest to hardest.
 I to have to agree that aerials are cooler than power shots but power shots are more common at least in the lower ranks.
 
@@ -40,7 +40,7 @@ A=Get boost and try to get the player?????
 B=  Try to cut the player?????? 
 C=None of them???????
 The right awnser is B=try to cut the player.
-Why is this??????
+####Why is this??????
 Because if you tried to get boost and cut the other player you probably don't have the time but if you cut the player with some boost pads and flips you could most likely make it. 
 You have about 10% out of 100% to make it but on the other hand you have about 90% out of 100% so ball is better.
 
