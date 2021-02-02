@@ -48,3 +48,6 @@ You have about 10% out of 100% to make it getting the big boost pad, but on the 
 ### This Is Not Technically Not A Tip But Just a traning pack
 
 The only tip that has a few traning packs is backbord defence!!
+There are lots of backbord defence but I enjoy this one best 50A0-CCEF-2350-4A46!!!
+The other tips just need practice for example camera setings,ball over boost,don't get ahead of your self last but not least backbord defence see what I mean!!!!
+
