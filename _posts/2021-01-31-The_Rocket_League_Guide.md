@@ -44,3 +44,4 @@ The right awnser is B=try to cut the player.
 Because if you tried to get boost and cut the other player you probably don't have the time but if you cut the player with some small boost pads and flips you could most likely make it. 
 You have about 10% out of 100% to make it getting the big boost pad, but on the other hand you have about 90% out of 100% with no big boost pad so ball is better.
 
+And don't miss [Rocket League Guide (part #2)](https://adrianrubio.org/posts/The_Rocket_League_part_2/)!!!!
