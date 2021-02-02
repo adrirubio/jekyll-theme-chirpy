@@ -2,7 +2,7 @@
 title:  "The Rocket League Guide (Part #1)"
 date: 2020-01-31 15:30:00
 categories: [HOBBIES]
-tags: [writting]
+tags: [Rocket League]
 ---
 
 ## Best 5 Rocket League Tips For Beginners
