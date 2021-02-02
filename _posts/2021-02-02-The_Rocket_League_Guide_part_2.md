@@ -52,3 +52,4 @@ There are lots of backbord defence but I enjoy this one best 50A0-CCEF-2350-4A46
 The other tips just need practice for example camera setings,ball over boost,don't get ahead of your self last but not least backbord defence see what I mean!!!!
 
 I hope you enjoyed and I hope to see you on The Rocket League Guide (part #3) !!!!!!!
+If this was a bit to advanced check out this [Rocket League Guide (part #1)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_1/)

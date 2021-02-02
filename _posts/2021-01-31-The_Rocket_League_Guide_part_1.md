@@ -16,6 +16,7 @@ Fine lets just get right into it!!!!
 
 ![My camera settings](/assets/img/adrian-free-play.png)
 Ok so what I mean by this is, if you are an total beginer wich you probably are I recommend you freeplay!!! 
+Just getting controle of your car and hitting the ball around easy as that.
 ##### Why Do This
 Because most lower ranked players don't use freeplay as much as I recommend you, just 10 minits a day.
 And in a few days you will see a huge diffrence in your game play!!
@@ -23,3 +24,7 @@ For some reason higher ranked players use freeplay ALOT, I am not saying it is a
 
  
 ### play more matches
+
+Not much comes in to this one just play more matches you are going to lose and win !!
+If you want try to think about one aspect of your game play!!
+Like:Hitting the ball or demoing a player, you get what I mean don't you!!!
