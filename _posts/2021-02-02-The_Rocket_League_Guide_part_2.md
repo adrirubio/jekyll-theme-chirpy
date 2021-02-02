@@ -10,7 +10,7 @@ Hello today I am going to be talking about some of the best 2020 Rocket League t
 
 ### Back Post Defence
 ##### What is Back Post Defence????
-Well back post defence is if you split the pitch in half vertically, the side that does not have the ball is the one you are ment to rotate down in too
+Well back post defence is if you split the pitch in half vertically, the side that does not have the ball is the one you are ment to rotate down in too.
 That means you can save any shot.
 But when you rotate down don't go in front of the goal post but slightly behind the goal.
 
