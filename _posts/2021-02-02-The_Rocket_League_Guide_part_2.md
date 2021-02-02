@@ -29,12 +29,6 @@ I can't tell you much about camara settings because they are entirely up to you,
 
 Oh and turn camara shake of!!!!!!
 
-### Don't Get Ahead Of Your Self
-By this I mean don't learn to aerial if you are in silver learn to power shot its like learning to run before you can walk.
-##### Why Do This??????
-Because power shots are more common than aerials so learn from easiest to hardest.
-I to have to agree that aerials are cooler than power shots but power shots are more common at least in the lower ranks.
-
 ### Ball Over Boost
 Ball over boost this is an example, when you have zero boost and you are rotating down and their is a player rolling the ball into the goal with no player in goal .
 Think for a moment what do you think is the right thing to do in this position.
@@ -47,10 +41,15 @@ Because if you tried to get boost and cut the other player you probably don't ha
 You have about 10% out of 100% to make it getting the big boost pad, but on the other hand you have about 90% out of 100% with no big boost pad so ball is better.
 
 ### Recommended traning pack
-
-The only tip that has a few traning packs is backbord defence!!
-There are lots of backbord defence but I enjoy this one best 50A0-CCEF-2350-4A46!!!
-The other tips just need practice for example camera setings,ball over boost,don't get ahead of your self last but not least backbord defence see what I mean!!!!
+well I am sorry but there is NO packs for this one but I can tell you stuff you can do for all the tips.
+#### Save Boost
+Turn unimited boost in freeplay and get the small boost pads.
+#### Stop Ball Chasing
+Practice in match.
+#### Camara Settings
+Just change them.
+#### Ball Over Boost
+Match practice.
 
 I hope you enjoyed and I hope to see you on The Rocket League Guide (part #3) !!!!!!!
 Once again I will show you the one before  [Rocket League Guide (part #3)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_3/)
