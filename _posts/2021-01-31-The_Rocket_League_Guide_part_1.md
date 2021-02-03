@@ -14,7 +14,7 @@ Fine lets just get right into it!!!!
 
 ### Freeplay Is Your Best Friend
 ![My camera settings](/assets/img/adrian-free-play.png)
-Ok so what I mean by this is, if you are an total beginner wich you probably are I recommend you freeplay!!! 
+Ok so what I mean by this is, if you are an total beginner witch you probably are I recommend you freeplay!!! 
 Just getting controle of your car and hitting the ball around easy as that.
 ##### Why Do This
 Because most lower ranked players don't use freeplay as much as I recommend you, just 10 minits a day.
