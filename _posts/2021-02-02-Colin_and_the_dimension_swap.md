@@ -1,11 +1,11 @@
 ---
 title:  "Colin And The Dimension Swap (Chapter #1)"
-date: 2020-03-02 10:45:00
+date: 2021-02-03 10:45:00
 categories: [HOBBIES]
-tags: [ESSAY]
+tags: [ESSAYS]
 ---
 
-Colin And The Dimension swap (Chapter #1)
+# Colin And The Dimension Swap (Chapter #1)
 
 Colin started the day, like any other other ordinary day he got out of bed, suddenly something a little bit weid happened!!!
 The day re-started but Colin did not realise, he woke up and he saw some thing unusual!!! He saw a slimy face in front of of him, his head was about to pop!
