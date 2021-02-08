@@ -13,7 +13,7 @@ Colin heard the slimy monster say "honey Joana is gone and and she is re-placed 
 Mr Monstor shouted back "be right up" when he came up he shouted out "what in the eternity of life is this!!!" During the same monent Colin put his pillow over his ears.
 Mr Monstor was aleady dialing the nuber of unkle John but before he could finish Mrs Monster mentioned that every time there was a problem he called unkle John (witch was true). 
 Mr Monster thought for a few seconds and then he addmited.
-You started this so you finish it said Mr M "Fine" said Mr M Colin could not belive what he was hearing he had never seen a monster or a monster.
+You started this so you finish it said Mr M "Fine" said Mrs M Colin could not belive what he was hearing he had never seen a monster or a monster fight.
 To much happened in one day for Colin and he didn't even have breakfast yet!!
 Finaly Mrs M addreed to call unkle John Mr M was more than happy.
 Colin could very damly hear John saying "be right there"
