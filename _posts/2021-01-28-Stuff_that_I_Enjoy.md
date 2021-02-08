@@ -6,7 +6,7 @@ tags: [Writting]
 ---
 
 ## Welcome
-Ok to get started I will put a link to my 12 years old brother!!!
+Ok to get started I will put a link to my 12 years old brothers blog!!!
 [pablorubio.com](https://pablorubio.com/)
 
 These are some things that I like!!!
