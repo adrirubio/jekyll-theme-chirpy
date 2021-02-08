@@ -8,6 +8,8 @@ tags: [Writting]
 ## Welcome
 Ok to get started I will put a link to my 12 year old brothers blog!!!
 [pablorubio.com](https://pablorubio.com/)
+And my dads
+[Juan A. Rubio](https://juanrubio.org/)
 
 These are some things that I like!!!
 
