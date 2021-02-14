@@ -27,3 +27,11 @@ That means you can save any shot.
 But when you rotate down don't go in front of the goal post but slightly behind the goal.
 Watch this for further information.Shout out to Wayton Pilkin!!!
 [Back post defence video](https://www.youtube.com/watch?v=yf90AIjSfCU)
+  
+### Diagonal Kickoffs
+This you should get a better kickoff simple as the front flip kickoff.
+##### How to do the front flip:
+Hold your analog stick up and dobble jump very quickly and ta-da you have done a front flip.
+Just watch me doing the two diagonal kickoff.
+
+There isn't much to come in to this kickoff just boost and front flip and boost turn and hit the middle of the ball and flip into it that easy.
