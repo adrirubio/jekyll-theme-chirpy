@@ -1,7 +1,7 @@
 ---
 title:  "Stuff that I like..."
 date: 2021-01-28 21:15:00
-categories: [HOBBIES]
+categories: [Stuff About Me]
 tags: [Writting]
 ---
 

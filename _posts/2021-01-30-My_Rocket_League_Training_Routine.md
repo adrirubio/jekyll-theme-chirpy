@@ -1,7 +1,7 @@
 ---
 title:  "My Rocket League Training Routine"
 date: 2021-01-30 11:00:00
-categories: [HOBBIES]
+categories: [Video Games (RL)]
 tags: [Rocket League]
 ---
 

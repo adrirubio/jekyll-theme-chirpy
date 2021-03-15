@@ -1,7 +1,7 @@
 ---
 title:  "The Rocket League Guide (Part #3)"
 date: 2021-02-02 15:30:00
-categories: [HOBBIES]
+categories: [Video Games (RL)]
 tags: [Rocket League]
 ---
 
