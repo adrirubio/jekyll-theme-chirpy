@@ -19,8 +19,12 @@ YESSSS very helpful and easy.
 Because if you and your team mates ball chase you are going to triple comit and everything is going to be a mess.
 But on the other hand you in defence and your team mates double commiting you will have an advantage over the other team.
 At one point the other team will get the ball pass your team mates and it will be up to you.
+(BUT MAKE SURE YOU DO NOT BALL ALLWAYS STAY IN THE GOAL !!!!!!!!!)
+practice spacing to not tripple comit,
+only go into the goal if there is no one in it and the ball is in your half of the field!!!!
 But it will take practice not only in game but also in training packs.
 But it will help.
+P.S. if you find it hard to do spacing check out my [My Rocket League Training Routine](https://adrianrubio.org/posts/My_Rocket_League_Training_Routine/) the last part will help :) 
 
 ### Camara Settings
 I can't tell you much about camara settings because they are entirely up to you, but I can show you what camara settings I play better with.
@@ -30,7 +34,7 @@ I can't tell you much about camara settings because they are entirely up to you,
 Oh and turn camara shake of!!!!!!
 
 ### Ball Over Boost
-Ball over boost this is an example, when you have zero boost and you are rotating down and their is a player rolling the ball into the goal with no player in goal .
+Ball over boost, see this example, when you have zero boost and you are rotating down and their is a player rolling the ball into the goal with no player in goal .
 Think for a moment what do you think is the right thing to do in this position.
 A=Get boost and try to get the player?????
 B=  Try to cut the player?????? 
