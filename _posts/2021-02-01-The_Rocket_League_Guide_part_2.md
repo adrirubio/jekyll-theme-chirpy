@@ -7,33 +7,32 @@ tags: [Rocket League]
 
 ## Best 5 Rocket League Tips For Bronze Or Silver players.
 Hello today I am going to be talking about some of the best 2020 Rocket League tips!!!!
- Like always I will show you the latest guide [Rocket League Guide (part #3)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_3/)
+Like always I will show you the latest guide [Rocket League Guide (part #3)](https://adrianrubio.org/posts/The_Rocket_League_Guide_part_3/)
 ### Save Boost
-Ok so boost is a precious thing instead of using all your boost in one go save it it will come in handy.
+Ok so boost is a precious thing instead of using all your boost in one go save it; it will come in handy.
 (I use to do that shhhhhhhhhh.)
 ##### Will This Be A Helpful Thing To Do???
 YESSSS very helpful and easy.
 
 ### Stop Ball Chasing
 ##### Why Do This????
-Because if you and your team mates ball chase you are going to triple comit and everything is going to be a mess.
+Because if you and your team mates ball chase you are going to triple commit and everything is going to be a mess.
 But on the other hand you in defence and your team mates double commiting you will have an advantage over the other team.
 At one point the other team will get the ball pass your team mates and it will be up to you.
 
-(BUT MAKE SURE YOU DO NOT BALL ALLWAYS STAY IN THE GOAL !!!!!!!!!)
-practice spacing to not tripple comit,
+(BUT MAKE SURE YOU DO NOT ALLWAYS STAY IN THE GOAL !!!!!!!!!)
+Practice spacing to not tripple commit,
 only go into the goal if there is no one in it and the ball is in your half of the field!!!!
 But it will take practice not only in game but also in training packs.
 But it will help.
 
-P.S. if you find it hard to do spacing check out my [My Rocket League Training Routine](https://adrianrubio.org/posts/My_Rocket_League_Training_Routine/) the last part will help :) 
 
 ### Camara Settings
-I can't tell you much about camara settings because they are entirely up to you, but I can show you what camara settings I play better with.
+I can't tell you much about camera settings because they are entirely up to you, but I can show you what camera settings I play better with.
 
 ![My camera settings](/assets/img/adrian-camera-settings.png)
 
-Oh and turn camara shake of!!!!!!
+Oh and turn camera shake of!!!!!!
 
 ### Ball Over Boost
 Ball over boost, see this example, when you have zero boost and you are rotating down and their is a player rolling the ball into the goal with no player in goal .
@@ -47,13 +46,17 @@ Because if you tried to get boost and cut the other player you probably don't ha
 You have about 10% out of 100% to make it getting the big boost pad, but on the other hand you have about 90% out of 100% with no big boost pad so ball is better.
 
 ### Recommended traning pack
-well I am sorry but there is NO packs for this one but I can tell you stuff you can do for all the tips.
+Well I am sorry but there is NO packs for this one but I can tell you stuff you can do for all the tips.
+
 #### Save Boost
-Turn unimited boost of in freeplay and get the small boost pads.
+Turn unlimited boost of in freeplay and get the small boost pads.
+
 #### Stop Ball Chasing
 Practice in match.
-#### Camara Settings
+
+#### Camera Settings
 Just change them.
+
 #### Ball Over Boost
 Match practice.
 
