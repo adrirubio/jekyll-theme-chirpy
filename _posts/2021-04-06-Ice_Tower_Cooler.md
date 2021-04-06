@@ -37,11 +37,11 @@ this blog (But of couse I am using it with the ice tower cooler). Back to the po
 ### What Does The Ice Tower Cooler Do?
 The ice tower cooler is a little fan that you conect to the top of the raspberry pi.
 You may be wondering why, well its because sometimes the raspberry pi slows down
-or turns of thats because it's getting hot so it slows down.So there are less possibility for 
-that to happen.If you are interested go and buy it, oh and another upside is that
-it has lights and they change color.[ice tower cooler](https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC/ref=sr_1_5?dchild=1&keywords=ice+tower+cooler+for+raspberry+pi+4+ep-0107&qid=1617731765&sr=8-5)
+or turns of, thats because it's getting hot so it slows down. So there are less possibility for 
+that to happen if you install the ice tower cooler. If you are interested go and buy it, oh and another upside is that
+it has lights and they change color. [ice tower cooler](https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC/ref=sr_1_5?dchild=1&keywords=ice+tower+cooler+for+raspberry+pi+4+ep-0107&qid=1617731765&sr=8-5)
  
  
- ### Building The Ice Tower Cooler
+ ###  Building The Ice Tower Cooler
  
 
