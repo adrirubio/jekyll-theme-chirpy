@@ -42,6 +42,6 @@ that to happen if you install the ice tower cooler. If you are interested go and
 it has lights and they change color. [ice tower cooler](https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC/ref=sr_1_5?dchild=1&keywords=ice+tower+cooler+for+raspberry+pi+4+ep-0107&qid=1617731765&sr=8-5)
  
  
- ### Building The Ice Tower Cooler
+### Building The Ice Tower Cooler
  
 
