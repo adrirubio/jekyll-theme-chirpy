@@ -8,7 +8,7 @@ tags: [projects]
 
 ## ICE TOWER COOLER
 
-Ok so thsi is my first blog post about a project, even 
+Ok so this is my first blog post about a project, even 
 though we are going to have lots, lots, more.
 Trust me, so I don't want to keep you wating so lets get right into it.
 
@@ -31,9 +31,17 @@ this blog (But of couse I am using it with the ice tower cooler). Back to the po
  have the best games like Among Us or Rocket League,minecraft and lots more.
  Even though you get minecraft pi which is a bader version than minecraft.
  So I would not recomend buying it to just play games (It was ment for people to work),
- not to play.here is a link to buy the Raspberry pi if your interested?(There are so many raspberry pi's this is the one I have)  
-[raspberry pi photo](https://www.amazon.co.uk/Raspberry-Pi-ARM-Cortex-A72-Bluetooth-Micro-HDMI/dp/B07TC2BK1X/ref=sr_1_3?crid=3MOARPYOR5CG5&dchild=1&keywords=raspberry+pi+4+model+b+4gb&qid=1617729848&sprefix=Raspberry+Pi+4+Model+B+4G%2Caps%2C1)
+ not to play.here is a link to buy the Raspberry pi if your interested?.(There are so many raspberry pi's this is the one I have)  
+[raspberry pi 4](https://www.amazon.co.uk/Raspberry-Pi-ARM-Cortex-A72-Bluetooth-Micro-HDMI/dp/B07TC2BK1X/ref=sr_1_3?crid=3MOARPYOR5CG5&dchild=1&keywords=raspberry+pi+4+model+b+4gb&qid=1617729848&sprefix=Raspberry+Pi+4+Model+B+4G%2Caps%2C1)
 
-### What Is The Ice Tower Cooler?
-
+### What Does The Ice Tower Cooler Do?
+The ice tower cooler is a little fan that you conect to the top of the raspberry pi.
+You may be wondering why, well its because sometimes the raspberry pi slows down
+or turns of thats because it's getting hot so it slows down.So there are less possibility for 
+that to happen.If you are interested go and buy it, oh and another upside is that
+it has lights and they change color.[ice tower cooler](https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC/ref=sr_1_5?dchild=1&keywords=ice+tower+cooler+for+raspberry+pi+4+ep-0107&qid=1617731765&sr=8-5)
+ 
+ 
+ ### Building The Ice Tower Cooler
+ 
 
