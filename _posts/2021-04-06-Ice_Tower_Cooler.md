@@ -6,7 +6,7 @@ tags: [projects]
 ---
 
 
-### ICE TOWER COOLER
+## Ice Tower Cooler
 
 Ok so this is my first blog post about a project, even 
 though we are going to have lots, lots, more.
