@@ -44,4 +44,48 @@ it has lights and they change color. [ice tower cooler](https://www.amazon.com/G
  
 ### Building The Ice Tower Cooler
  
+1. This is what you should have.
 
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2239.jpg)
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2242.jpg)
+
+2. Put the mounting brackets togerther with the two M2.5 screws, and then attach them to the Ice Tower Cooler.
+P.S. be careful of the way you conect the mounting brackets and the to screws on the 
+Ice Tower Cooler.
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2245.jpg)
+
+3. Then conect the chopper sticks and the nuts togerter to the mounting 
+brackets.
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2248.jpg)
+
+4. Put the Thermal tape on the pi's CPU SOC.
+
+5. Put the chopper sticks at the corner under of the pi and conect the ones on the 
+Ice Tower Cooler to the ones under.
+And under that put the Acrylic protection panle.
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_20210410_150823.jpg)
+
+6. Conect the red and black wire as shown here.
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_20210410_163652.jpg)
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_20210410_163711.jpg)
+
+7. 
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2261.jpg)
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2262.jpg)
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2263.jpg)
+
+![ice tower cooler photo](/assets/img/ice-tower-cooler/IMG_2264.jpg)
+
+And if I did this correctly you should have a better working Raspberry Pi.
+
+A manual aslo comes to help!!
+so I hope this came useful and I will see you in the next one.
