@@ -87,5 +87,5 @@ And under that put the Acrylic protection panle.
 
 And if I did this correctly you should have a better working Raspberry Pi.
 
-A manual aslo comes to help!!
+A manual also comes to help!!
 so I hope this came useful and I will see you in the next one.
